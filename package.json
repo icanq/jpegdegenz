@@ -1,0 +1,10 @@
+{
+  "name": "jpegdegen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "icanq <icanatawijaya@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.10.1"
+  }
+}
